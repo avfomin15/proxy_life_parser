@@ -11,7 +11,7 @@
 Склонируйте репозиторий с помощью Git:
 
 ```bash
-git clone <url_репозитория>
+git clone https://github.com/avfomin15/proxy_life_parser.git
 ```
 
 ### 2. Установите зависимости
