@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+*.pyd
+*.pdb
+*.log
+
+# Виртуальная среда
+venv/
+.venv/
+
+# Конфигурации IDE
+.vscode/
+.idea/
+
+# Секреты и конфиденциальные данные
+.env
+
+# Кэшированные файлы
+.mypy_cache/
+*.coverage
+*.tox
+*.nox
+*.coverage.*
+*.hypothesis/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы драйвера Selenium
+chromedriver/
+
+# Сессии браузера для Selenium
+selenium_sessions/
